@@ -1,4 +1,10 @@
 
 .DavidWu {
-    
+    margin: 10px;
+    color: teal; 
+    left: 300px;
+}
+
+.links {
+    float: right;    
 }
