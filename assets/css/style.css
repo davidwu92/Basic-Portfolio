@@ -1,10 +1,16 @@
 
 .DavidWu {
-    margin: 10px;
-    color: teal; 
-    left: 300px;
+    padding: 15px;
+    color: #ffffff;
+    position: relative;
+    left: 30%;
+    width: 150px;
+    background-color: teal;
+    float: left;
 }
 
 .links {
-    float: right;    
+    float: right; 
+    padding: 10px;
 }
+
