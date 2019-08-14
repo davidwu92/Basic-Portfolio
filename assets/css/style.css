@@ -11,7 +11,7 @@
         position: relative;
         left: 20%;
         width: 199px;
-        background-color: teal;
+        background-color: #4aaaa5;
         float: left;
     }
     .links {
@@ -23,6 +23,7 @@
     }
 body {
     background-color: lightgrey;
+    background-image: image(white-waves.png);
 }
     h1 {
         font-family: 'Georgia', Times, Times New Roman, serif;
@@ -52,7 +53,7 @@ body {
         width: 960px;
     }
     .contenttitle {
-        color: teal;
+        color: #4aaaa5;
     }
     #photo {
         width: 165px;
@@ -66,8 +67,10 @@ body {
         bottom:0%;
         width: 100%;
         height: 44px;
-        background-color: rgb(28, 56, 53);
+        background-color: rgb(32, 51, 44);
         color: rgb(182, 182, 182);
+        border-top:solid #4aaaa5 4px;
         text-align: center;
         text-align: bottom;
+        
     }
