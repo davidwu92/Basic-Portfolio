@@ -59,6 +59,7 @@
         }
         .bio {
             text-indent: 50px; /*indents paragraphs in index.html content*/
+            line-height: 1.1;
         }
 
         .contenttitle { /*titles are About Me, Portfolio, and Contact*/
