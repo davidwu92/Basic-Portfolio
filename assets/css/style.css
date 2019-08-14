@@ -10,8 +10,12 @@ h1 {
     padding:6px;
 }
 
+p {
+    font-size: 20px;
+    padding: 3px;
+}
 .DavidWu {
-    padding: 15px;
+    padding: 12px;
     color: #ffffff;
     position: relative;
     left: 20%;
@@ -36,6 +40,9 @@ h1 {
     left: 20%;
     top: 10%;
     width: 850px;
+}
+.contenttitle {
+    color: teal;
 }
 
 #photo {
