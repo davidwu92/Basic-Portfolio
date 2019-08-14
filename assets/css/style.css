@@ -1,6 +1,3 @@
-body {
-    background-color: lightgrey;
-}
 .header {
     background-color: white;
     height: 69px;
@@ -8,60 +5,69 @@ body {
     border-color: darkslategrey;
     border-width: thin;
 }
+    .DavidWu {
+        padding: 12px;
+        color: #ffffff;
+        position: relative;
+        left: 20%;
+        width: 199px;
+        background-color: teal;
+        float: left;
+    }
+    .links {
+        float: right; 
+        padding: 10px;
+        position: relative;
+        right: 15%;
+        color: lightgrey;
+    }
+body {
+    background-color: lightgrey;
+}
+    h1 {
+        font-family: 'Georgia', Times, Times New Roman, serif;
+        font-size:32px;
+        padding:6px;
+    }
+    p {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        color: dimgray;
+        padding: 3px;
 
-h1 {
-    font-family: 'Georgia', Times, Times New Roman, serif;
-    font-size:32px;
-    padding:6px;
-}
+    }
+    .bio {
+        text-indent: 50px;
+    }
 
-p {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    color: dimgray;
-    padding: 3px;
-    
-}
+    .content {
+        background-color:white;
+        border:solid;
+        border-color: darkslategrey;
+        border-width: thin;
+        padding: 10px;
+        position: fixed;
+        left: 20%;
+        top: 10%;
+        width: 960px;
+    }
+    .contenttitle {
+        color: teal;
+    }
+    #photo {
+        width: 165px;
+        float: left;
+        margin-right: 20px;
+    }
 
-.bio {
-    text-indent: 50px;
-}
-.DavidWu {
-    padding: 12px;
-    color: #ffffff;
-    position: relative;
-    left: 20%;
-    width: 199px;
-    background-color: teal;
-    float: left;
-}
-
-.links {
-    float: right; 
-    padding: 10px;
-    position: relative;
-    right: 15%;
-    color: lightgrey;
-
-}
-
-.content {
-    background-color:white;
-    border:solid;
-    border-color: darkslategrey;
-    border-width: thin;
-    padding: 10px;
-    position: fixed;
-    left: 20%;
-    top: 10%;
-    width: 960px;
-}
-.contenttitle {
-    color: teal;
-}
-
-#photo {
-    width: 165px;
-    float: left;
-    margin-right: 20px;
-}
+    #copyright{
+        padding-top: 22px;
+        position:absolute;
+        bottom:0%;
+        width: 100%;
+        height: 44px;
+        background-color: rgb(28, 56, 53);
+        color: rgb(182, 182, 182);
+        text-align: center;
+        text-align: bottom;
+    }
