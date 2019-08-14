@@ -1,5 +1,5 @@
 /* STYLING FOR ALL 3 HTMLS */
-    .header {
+    .header { /*Top Bar styling*/
         background-color: white;
         height: 69px;
         border-bottom: solid;
@@ -41,7 +41,7 @@
             text-indent: 50px; /*indents paragraphs in index.html content*/
         }
 
-        .contenttitle {
+        .contenttitle { /*titles are About Me, Portfolio, and Contact*/
             border-bottom:solid #4aaaa5;
             color: #4aaaa5;
             padding:10px;
@@ -65,7 +65,7 @@
             margin-right: 20px;
         }
 
-        #copyright{
+    #copyright{ /*footer and copyright notice*/
             padding-top: 22px;
             position:absolute;
             bottom:0%;
