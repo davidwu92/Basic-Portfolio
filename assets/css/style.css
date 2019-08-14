@@ -10,11 +10,13 @@ body {
 }
 
 h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
     font-size:32px;
     padding:6px;
 }
 
 p {
+    font-family: Arial', 'Helvetica Neue'; 
     font-size: 20px;
     padding: 3px;
     text-indent: 50px;
@@ -24,7 +26,7 @@ p {
     color: #ffffff;
     position: relative;
     left: 20%;
-    width: 176px;
+    width: 199px;
     background-color: teal;
     float: left;
 }
@@ -47,7 +49,7 @@ p {
     position: fixed;
     left: 20%;
     top: 10%;
-    width: 850px;
+    width: 960px;
 }
 .contenttitle {
     color: teal;
